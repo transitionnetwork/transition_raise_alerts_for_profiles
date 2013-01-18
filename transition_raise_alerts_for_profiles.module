@@ -1,0 +1,3 @@
+<?php
+
+include_once('transition_raise_alerts_for_profiles.features.inc');
